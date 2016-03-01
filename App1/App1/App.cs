@@ -20,7 +20,7 @@ namespace App1
                     Children = {
                         new Label {
                             XAlign = TextAlignment.End,
-                            Text = "Hello World, hello kien!2222"
+                            Text = "Hello World, hello kien!22222222 kien"
                         }
                     }
                 }
